@@ -1,1 +1,2 @@
-# 4000ML Task 1 Learning GitHub
+# Web scraping
+# This Python code scrapes text from a Medium blog page and prints it to a .txt file.
